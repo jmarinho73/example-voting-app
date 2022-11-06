@@ -1,2 +1,2 @@
 ## Worker Java App
-* [![Build Status](http://192.168.1.40:8080/buildStatus/icon?job=instavote%2Fworker-build)](http://192.168.1.40:8080/job/instavote/job/worker-build/)
+* [![Build Status](https://smee.io/oCGvEN1ms3LB9Wq/buildStatus/icon?job=instavote%2Fworker-build)](https://smee.io/oCGvEN1ms3LB9Wq/job/instavote/job/worker-build/)
